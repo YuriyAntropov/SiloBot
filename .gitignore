@@ -1,0 +1,34 @@
+# Секреты и ключи
+*.json
+secrets/
+keys.txt
+
+# Логи
+*.log
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Виртуальные окружения
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+# Firebase кэш
+.firebase/
+
+# Аудиофайлы
+*.mp3
+*.wav
+
+# Локальные тесты
+test_*.py
+test.mp3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+firebase_functions>=0.4.3
+firebase_admin>=7.1.0
+twilio>=9.7.0
+requests>=2.32.4
+google-auth>=2.40.3
+google-cloud-texttospeech>=2.27.0
+google-cloud-dialogflow>=2.41.2
+google-cloud-speech>=2.33.0
+flask>=3.1.1
+functions-framework>=3.9.2
+ffmpeg>=1.4
